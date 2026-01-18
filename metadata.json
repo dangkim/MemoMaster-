@@ -1,0 +1,7 @@
+{
+  "name": "MemoMaster AI",
+  "description": "A warm and supportive AI learning companion designed to help children memorize lessons through interactive recitation, constructive feedback, and fun encouragement.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
